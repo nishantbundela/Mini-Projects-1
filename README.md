@@ -1,8 +1,9 @@
 # Overview
 
-This repository contains files, notebooks, and data used for live project walkthroughs on Dataquest.  You can watch the project walkthroughs on [Youtube](https://www.youtube.com/channel/UC_lePY0Lm0E2-_IkYUWpI5A).
+This repository contains files, notebooks, and data used in the live project walkthroughs on Dataquest.  You can access the project walkthroughs on [Youtube](https://www.youtube.com/channel/UC_lePY0Lm0E2-_IkYUWpI5A).
 
 These walkthroughs help you build complete end-to-end projects that can go into your portfolio.
+My repo: https://github.com/nishantbundela/Mini-Projects-1.git
 
 # Prerequisites
 
