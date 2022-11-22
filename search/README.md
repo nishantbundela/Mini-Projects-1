@@ -13,9 +13,6 @@ We'll use Pycharm, a common python IDE, to write our code and run it.
 * Create a Flask application to search and render results
 * Create filters to re-rank results before displaying them
 
-## Code
-
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/search).
 
 File overview:
 
